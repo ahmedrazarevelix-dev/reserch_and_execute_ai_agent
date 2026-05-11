@@ -1,0 +1,27 @@
+# Core
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+ 
+# LangChain + LangGraph
+langchain
+langchain-groq
+langchain-community
+langchain-core
+langgraph
+ 
+# Search
+tavily-python
+ 
+# RAG - Vector DB
+chromadb
+sentence-transformers
+ 
+# Document Parsers
+PyMuPDF
+python-docx
+python-multipart
+ 
+# Utilities
+numpy
